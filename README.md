@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./resources/logo.jpg" alt="RiZoeLXSpam Logo">
+  <img src="./resources/logo.jpg" alt="naira Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>naira X spam </b>
 </h1>
 
-[![Forks](https://img.shields.io/github/forks/MrRizoel/RiZoeLXSpam?style=flat-square&color=orange)](https://github.com/MrRizoel/RiZoeLXSpam/fork)
+[![Forks](https://img.shields.io/github/forks/bnsnaira/RiZoeLXSpam?style=flat-square&color=orange)](https://github.com/MrRizoel/RiZoeLXSpam/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrRizoel/RiZoeLXSpam)   
 ----
@@ -23,16 +23,16 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HeroxXd/RiZoeLXSpam-deploy-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bnsnaira/RiZoeLXSpam-deploy-)
 
 
 # ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
 [![Commands](https://img.shields.io/badge/RiZoeLXSpam-CMDS-blue)](https://t.me/Resourcez/4)
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHxHELL)
+* [Channel](https://t.me/bnsfighters)
+* [Support Group](https://t.me/bnsfighters)
 
 # Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
+* [RiZoeL Creator](https://github.com/bnsnaira)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
